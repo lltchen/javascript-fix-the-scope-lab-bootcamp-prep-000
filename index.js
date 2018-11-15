@@ -1,4 +1,4 @@
-var animal 
+var animal
 
 function myAnimal() {
   return animal
